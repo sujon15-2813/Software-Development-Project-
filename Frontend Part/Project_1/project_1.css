@@ -67,3 +67,38 @@ li:hover{
 .title{
     font-size: 45px;
 }
+.service-container{
+    margin: top 30px; ;
+}
+.service-title{
+    margin-top: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+.service-card{
+    height: 500px;
+    width: 300px;
+    /* border: 1px solid grey; */
+    box-shadow: 4px 4px 8px grey;
+    text-align: center;
+    margin-top: 50px;
+}
+.service-img{
+    width: 250px;
+}
+.service-card-btn{
+    padding: 15px 25px;
+    background-color: rgb(27, 240, 133);
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+.service-description{
+    margin: 10px;
+
+}
+.services{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
