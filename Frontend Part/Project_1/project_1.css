@@ -29,3 +29,41 @@ li:hover{
     display: flex;
     gap: 15px;
 }
+.banner-img{
+    width: 300px;
+
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+    
+.banner-left{
+    width: 400px;
+    line-height: 2.5;
+    /* margin:auto; */
+}
+/* .banner-right{
+    width: 50%;
+    margin: auto;
+} */
+.btn{
+    padding: 15px; ;
+    border: none;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.hire-btn{
+    background-color: rgb(11, 116, 116);
+}
+.project-btn{
+    background-color: rgb(34, 214, 109);
+}
+.title{
+    font-size: 45px;
+}
